@@ -7,10 +7,13 @@
 11 AI agents that find, call, negotiate and land your first US apartment, from one message, while you sleep.</p>
   <h5 align="center">Won Fetch.ai and Notability track and verbal mention for Relay at Mhacks 2026 </h5>
 
+
 <p align="center">
+
 ![tag:innovationlab](https://img.shields.io/badge/innovationlab-3D8BD3) ![tag:hackathon](https://img.shields.io/badge/hackathon-5F43F1) ![Fetch.ai](https://img.shields.io/badge/Fetch.ai-11_uAgents-1A1A2E) ![ASI:One](https://img.shields.io/badge/ASI:One-@homie--usa-6AB8FF) ![Relay](https://img.shields.io/badge/Relay-video_calls-3DFFA0) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-live_calls-000000)
 
 </p>
+
 
 <p align="center">
   <a href="https://youtu.be/zl_fpA4hX9Q"><b>▶ Watch the demo</b></a> ·
